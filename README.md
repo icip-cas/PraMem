@@ -10,7 +10,7 @@ pip install openai tqdm jieba rank_bm25 pytz openpyxl
 
 ## 1. Data Preparation
 
-Download `experiment_data.json` from [Google Drive](YOUR_GOOGLE_DRIVE_LINK) and place it at:
+Download `experiment_data.json` from [Google Drive](https://drive.google.com/file/d/1nvxxlVSlLDz5imLxFOWUU3u_2sdFTTsM/view?usp=drive_link) and place it at:
 
 ```
 work_data/experiment_data.json
